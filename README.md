@@ -50,6 +50,11 @@ record at all and 28.8% publish `p=none`
 Written with an AI system (Claude) under my direction; I review and maintain it.
 Issues and pull requests welcome.
 
+## On WordPress?
+
+[Mailwick Site Audit](https://github.com/Stephen-Psaradellis/mailwick-site-audit) runs the same email check
+(plus SSL, updates, phone view and four more) inside Tools > Site Health.
+
 ## License
 
 MIT
