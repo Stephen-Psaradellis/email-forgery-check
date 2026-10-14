@@ -50,6 +50,11 @@ record at all and 28.8% publish `p=none`
 Written with an AI system (Claude) under my direction; I review and maintain it.
 Issues and pull requests welcome.
 
+## Run IT for small businesses?
+
+[MSP email-security prospects](https://stephen-psaradellis.github.io/demos/msp-email-prospects.html) lists, by metro,
+the 13,096 of those businesses whose mail domain has no DMARC or only `p=none`, with the mail host each one uses.
+
 ## On WordPress?
 
 [Mailwick Site Audit](https://github.com/Stephen-Psaradellis/mailwick-site-audit) runs the same email check
